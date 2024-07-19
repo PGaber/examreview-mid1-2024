@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+body{
+    font-family: Sarabun;
+    background-color:rgb(185, 243, 224)
+}
+
+h1{
+    font-family: Kanit;
+    margin: 25px;
+}
+
+h2{
+    font-family: Kanit;
+}
+
+#t1{
+    line-height: 1.5em;
+}
+
+#t2{
+    line-height: 1.5em;
+}
+
+hr{
+    border: 1px solid black;
+    margin-left: -20px;
+}
+
+#in{
+    border: 2px solid black;
+}
+
+#review{
+    line-height: 1.5em;
+}
+
+#bhudda{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: Sarabun;
+    width: 130px;
+    height: 30px;
+}
+
+#top{
+    margin-bottom: -15px;
+}
+
+#box1{
+    width: 500px;
+    height: 1170px;
+    background-color: rgb(172, 252, 153);
+    margin: 30px;
+    border: 3px solid hsl(0, 0%, 0%);
+    border-radius: 20px;
+}
+
+#text1{
+    margin: 20px;
+}
+
+#lunch{
+    width: 500px;
+}
+
+#box2{
+    width: 600px;
+    height: 1195px;
+    background-color: rgb(255, 242, 124);
+    margin: 30px;
+    border: 3px solid hsl(0, 0%, 0%);
+    border-radius: 20px;
+}
+
+#text2{
+    margin: 20px;
+}
+
+#box3{
+    width: 500px;
+    height: 800px;
+    background-color: rgb(252, 175, 175);
+    margin: 30px;
+    border: 3px solid hsl(0, 0%, 0%);
+    border-radius: 20px;
+}
+
+#text3{
+    margin: 20px;
+}
+
+#lunch2{
+    width: 600px;
+}
+#lunch3{
+    width: 500px;
+}

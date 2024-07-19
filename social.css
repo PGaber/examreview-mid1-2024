@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+body{
+    margin: 20px;
+    font-family: Sarabun;
+    line-height: 1em;
+}
+
+hr{
+    margin-left: -20px;
+    border: 1.5px solid black;
+}
+
+pre{
+    font-family: Sarabun;
+    line-height: 1.5em;
+}
